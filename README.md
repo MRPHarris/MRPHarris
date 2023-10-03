@@ -10,11 +10,11 @@ My name's Matt. I research past and present climate change, mostly through ice c
   - [ResearchGate](https://www.researchgate.net/profile/Matthew-Harris-27) 
   - [LinkedIn](https://www.linkedin.com/in/matthewrpharris/)
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRPHarris&show_icons=true&theme=dark)
+<![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRPHarris&show_icons=true&theme=dark)>
 
 A significant portion of my work to date has been related to the analysis of fluorescent organic matter (FOM) in ice cores, which was the core focus of my PhD. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRPHarris&hide=html,less,css,scss,TeX,javascript&layout=compact&theme=dark)
+<![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRPHarris&hide=html,less,css,scss,TeX,javascript&layout=compact&theme=dark)>
 
 ### R packages (functional)
 Research inevitably involves grappling with new problems, or adjusting pre-existing approaches. I've made a range of R packages to help along the way:
