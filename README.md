@@ -16,12 +16,12 @@ I have also spent quite a bit of time running, and analysing outputs from, NOAA'
 
 ### R packages (functional)
 Research inevitably involves grappling with new problems, or adjusting pre-existing approaches. I've made a range of R packages to help along the way:
-  - CS3 [GitHub](https://github.com/MRPHarris/CS3): an implementation of component-versus-spectral similarity for three-dimensional fluorescence model (PARAFAC) validation.
-  - SampleQueue [GitHub](https://github.com/MRPHarris/SampleQueue): an automated file data processing system for the HORIBA Aqualog fluorimeter.
-  - eemUtils [GitHub](https://github.com/MRPHarris/eemutils): various functions to expand upon the existing fluorescence analysis framework in R.
-  - ERA5handlers [GitHub](https://github.com/MRPHarris/ERA5handlers): simple functions for reading and parsing ERA-5 reanalysis data from the Copernicus CDS.
+  - CS3 [GitHub](https://github.com/MRPHarris/CS3)
+  - SampleQueue [GitHub](https://github.com/MRPHarris/SampleQueue)
+  - eemUtils [GitHub](https://github.com/MRPHarris/eemutils)
+  - ERA5handlers [GitHub](https://github.com/MRPHarris/ERA5handlers)
 
 ### R packages (work-in-progress)
 These packages are ongoing projects that may or may not function currently:
-  - trajSpatial [GitHub](https://github.com/MRPHarris/trajSpatial): spatio-temporal analysis of endpoint data from the NOAA HYSPLIT trajectory modelling system.
-  - metfetchR [GitHub](https://github.com/MRPHarris/metfetchR): a multi-computer meteorological data query and fetching system for running the NOAA HYSPLIT model with large ERA-5 data files.
+  - trajSpatial [GitHub](https://github.com/MRPHarris/trajSpatial)
+  - metfetchR [GitHub](https://github.com/MRPHarris/metfetchR)
