@@ -3,9 +3,8 @@
 My name's Matt. I research past and present climate change, mostly through ice cores, and mostly in/around Antarctica. I dabble in open-source software development (chiefly *R*) to help answer research questions.
 
 ### Here's where to find me: 
-  - [matthew.harris@unsw.edu.au](mailto:matthew.harris@unsw.edu.au) (work)
+  - [m.harris@gns.cri.nz](mailto:m.harris@gns.cri.nz) (work)
   - [matthewrpharris@gmail.com](mailto:matthewrpharris@gmail.com) (personal)
-  - [UNSW staff profile](https://research.unsw.edu.au/people/mr-matthew-richard-pain-harris)
   - [0000-0002-3726-2376](https://orcid.org/0000-0002-3726-2376) (orcid)
   - [@Organic_Matters](https://twitter.com/Organic_Matters) (twitter/X)
   - [ResearchGate](https://www.researchgate.net/profile/Matthew-Harris-27) 
