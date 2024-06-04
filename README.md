@@ -16,6 +16,7 @@ I have also spent quite a bit of time running, and analysing outputs from, NOAA'
 
 ### R packages (functional)
 Research inevitably involves grappling with new problems, or adjusting pre-existing approaches. I've made a range of R packages to help along the way:
+  - lwia.r [Github](https://github.com/MRPHarris/lwia.r)
   - CS3 [GitHub](https://github.com/MRPHarris/CS3)
   - SampleQueue [GitHub](https://github.com/MRPHarris/SampleQueue)
   - eemUtils [GitHub](https://github.com/MRPHarris/eemutils)
