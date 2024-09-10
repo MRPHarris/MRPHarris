@@ -14,7 +14,6 @@ A large portion of my work to date has been related to the analysis of fluoresce
 I have also spent quite a bit of time running, and analysing outputs from, NOAA's HYSPLIT atmospheric trajectory model.
 
 ### R packages (functional)
-Research inevitably involves grappling with new problems, or adjusting pre-existing approaches. I've made a range of R packages to help along the way:
   - lwia.r [Github](https://github.com/MRPHarris/lwia.r)
   - CS3 [GitHub](https://github.com/MRPHarris/CS3)
   - SampleQueue [GitHub](https://github.com/MRPHarris/SampleQueue)
@@ -22,6 +21,5 @@ Research inevitably involves grappling with new problems, or adjusting pre-exist
   - ERA5handlers [GitHub](https://github.com/MRPHarris/ERA5handlers)
 
 ### R packages (work-in-progress)
-These packages are ongoing projects that may or may not function currently:
   - trajSpatial [GitHub](https://github.com/MRPHarris/trajSpatial)
   - metfetchR [GitHub](https://github.com/MRPHarris/metfetchR)
