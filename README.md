@@ -15,7 +15,6 @@ I have also spent quite a bit of time running, and analysing outputs from, NOAA'
 
 ### R packages (functional)
   - lwia.r [Github](https://github.com/MRPHarris/lwia.r)
-  - CS3 [GitHub](https://github.com/MRPHarris/CS3)
   - SampleQueue [GitHub](https://github.com/MRPHarris/SampleQueue)
   - eemUtils [GitHub](https://github.com/MRPHarris/eemutils)
   - ERA5handlers [GitHub](https://github.com/MRPHarris/ERA5handlers)
