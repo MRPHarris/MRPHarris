@@ -21,4 +21,3 @@ I have also spent quite a bit of time running, and analysing outputs from, NOAA'
 
 ### R packages (work-in-progress)
   - trajSpatial [GitHub](https://github.com/MRPHarris/trajSpatial)
-  - metfetchR [GitHub](https://github.com/MRPHarris/metfetchR)
