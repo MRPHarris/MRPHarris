@@ -18,6 +18,7 @@ I have also spent quite a bit of time running, and analysing outputs from, NOAA'
   - SampleQueue [GitHub](https://github.com/MRPHarris/SampleQueue)
   - eemUtils [GitHub](https://github.com/MRPHarris/eemutils)
   - ERA5handlers [GitHub](https://github.com/MRPHarris/ERA5handlers)
+  - bathy.classifieR [Github](https://github.com/MRPHarris/bathy.classifieR)
 
 ### R packages (work-in-progress)
   - trajSpatial [GitHub](https://github.com/MRPHarris/trajSpatial)
