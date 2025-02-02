@@ -5,7 +5,7 @@ I research past and present climate change, mostly through ice cores, and mostly
 ### Here's where to find me: 
   - [m.harris@gns.cri.nz](mailto:m.harris@gns.cri.nz) (work)
   - [0000-0002-3726-2376](https://orcid.org/0000-0002-3726-2376) (orcid)
-  - [@Organic_Matters](https://twitter.com/Organic_Matters) (twitter/X)
+  - [@mattrpharris.bsky.social](https://bsky.app/profile/mattrpharris.bsky.social) (Bluesky)
   - [ResearchGate](https://www.researchgate.net/profile/Matthew-Harris-27) 
   - [LinkedIn](https://www.linkedin.com/in/matthewrpharris/)
 
