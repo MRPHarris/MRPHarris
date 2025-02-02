@@ -14,11 +14,12 @@ A large portion of my work to date has been related to the analysis of fluoresce
 I have also spent quite a bit of time running, and analysing outputs from, NOAA's HYSPLIT atmospheric trajectory model.
 
 ### R packages (functional)
-  - lwia.r [Github](https://github.com/MRPHarris/lwia.r)
-  - SampleQueue [GitHub](https://github.com/MRPHarris/SampleQueue)
-  - eemUtils [GitHub](https://github.com/MRPHarris/eemutils)
-  - ERA5handlers [GitHub](https://github.com/MRPHarris/ERA5handlers)
-  - bathy.classifieR [Github](https://github.com/MRPHarris/bathy.classifieR)
+  - lwia.r, a library of functions for the LGR liquid water isotope analyser [Github](https://github.com/MRPHarris/lwia.r)
+  - SampleQueue, an automated file processing system for the HORIBA Aqualog [GitHub](https://github.com/MRPHarris/SampleQueue)
+  - eemUtils, a suite of functions for working with EEM-fluorescence data in R [GitHub](https://github.com/MRPHarris/eemutils)
+  - ERA5handlers, simple parsers for ERA-5 data from the Copernicus CDS [GitHub](https://github.com/MRPHarris/ERA5handlers)
+  - bathy.classifieR, a user-prompt tree for bathymetric image classification [Github](https://github.com/MRPHarris/bathy.classifieR)
+  - MCCPT, an implementation of Monte-Carlo changepoint analysis for paleoclimate records [Github](https://github.com/h-cadd/MCCPT)
 
 ### R packages (work-in-progress)
-  - trajSpatial [GitHub](https://github.com/MRPHarris/trajSpatial)
+  - trajSpatial, functions for running cluster and spatiotemporal analysis of HYSPLIT model endpoints [GitHub](https://github.com/MRPHarris/trajSpatial)
