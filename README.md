@@ -14,12 +14,18 @@ A large portion of my work to date has been related to the analysis of fluoresce
 I have also spent quite a bit of time running, and analysing outputs from, NOAA's HYSPLIT atmospheric trajectory model.
 
 ### R packages (functional)
-  - lwia.r, a library of functions for the LGR liquid water isotope analyser [Github](https://github.com/MRPHarris/lwia.r)
-  - SampleQueue, an automated file processing system for the HORIBA Aqualog [GitHub](https://github.com/MRPHarris/SampleQueue)
-  - eemUtils, a suite of functions for working with EEM-fluorescence data in R [GitHub](https://github.com/MRPHarris/eemutils)
-  - ERA5handlers, simple parsers for ERA-5 data from the Copernicus CDS [GitHub](https://github.com/MRPHarris/ERA5handlers)
-  - bathy.classifieR, a user-prompt tree for bathymetric image classification [Github](https://github.com/MRPHarris/bathy.classifieR)
-  - MCCPT, an implementation of Monte-Carlo changepoint analysis for paleoclimate records [Github](https://github.com/h-cadd/MCCPT)
+
+| Package      | Description |
+| ----------- | ----------- |
+| [lwia.r](https://github.com/MRPHarris/lwia.r)                     | A library of functions for the LGR liquid water isotope analyser   |
+| [SampleQueue](https://github.com/MRPHarris/SampleQueue)           | An automated file processing system for the HORIBA Aqualog         |
+| [eemUtils](https://github.com/MRPHarris/eemutils)                 | A suite of functions for working with EEM-fluorescence data in R   |
+| [ERA5handlers](https://github.com/MRPHarris/ERA5handlers)         | Simple parsers for ERA-5 data from the Copernicus CDS              |
+| [bathy.classifieR](https://github.com/MRPHarris/bathy.classifieR) | User-prompt tree for bathymetric image classification              |
+| [MCCPT](https://github.com/h-cadd/MCCPT)                          | Monte-Carlo changepoint analysis of paleoclimate records           |
 
 ### R packages (work-in-progress)
-  - trajSpatial, functions for running cluster and spatiotemporal analysis of HYSPLIT model endpoints [GitHub](https://github.com/MRPHarris/trajSpatial)
+
+| Package      | Description |
+| ----------- | ----------- |
+| [trajSpatial.r](https://github.com/MRPHarris/trajSpatial)   | HYSPLIT endpoint cluster and spatiotemporal analysis  |
