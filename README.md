@@ -35,3 +35,4 @@ I have also spent quite a bit of time running, and analysing outputs from, NOAA'
 | Repository      | Description |
 | ----------- | ----------- |
 | [Minjerribah-hysplit](https://github.com/MRPHarris/Minjerribah-hysplit/)                     | An analysis of rainfall-associated atmospheric trajectories to two islands in subtropical eastern Australia. Contribution to a manuscript led by John Tibby, accepted for publication in the Journal of Quaternary Science   |
+| [MCCPT](https://github.com/h-cadd/MCCPT)                          | Monte-Carlo changepoint analysis of paleoclimate records. R package produced alongside [Cadd et al. (2021)](https://doi.org/10.1017/qua.2021.16)          |
