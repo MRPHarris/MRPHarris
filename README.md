@@ -33,4 +33,5 @@ I have also spent quite a bit of time running, and analysing outputs from, NOAA'
 ### Manuscript-related repositories
 
 | Repository      | Description |
+| ----------- | ----------- |
 | [Minjerribah HYSPLIT work](https://github.com/MRPHarris/Minjerribah-hysplit/)                     | An analysis of rainfall-associated atmospheric trajectories to two islands in South-East Queensland. Contribution to a manuscript led by John Tibby, accepted for publication in the Journal of Quaternary Science   |
