@@ -29,6 +29,7 @@ I have also spent quite a bit of time running, and analysing outputs from, NOAA'
 | Package      | Description |
 | ----------- | ----------- |
 | [trajSpatial](https://github.com/MRPHarris/trajSpatial)   | HYSPLIT endpoint cluster and spatiotemporal analysis  |
+| [ICQC](https://github.com/GNS-NICRF/ICQC)  |  A WIP quality-control and reporting system for ion chromatography data used by the NZ National Ice Core Facility |
 
 ### Manuscript-related repositories
 
