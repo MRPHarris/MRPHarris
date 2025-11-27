@@ -9,7 +9,7 @@ I research past and present environmental change, mostly through ice cores, and 
   - [ResearchGate](https://www.researchgate.net/profile/Matthew-Harris-27) 
   - [LinkedIn](https://www.linkedin.com/in/matthewrpharris/)
 
-A large portion of my work to date has been related to the analysis of fluorescent organic matter (FOM) in ice cores, which was the core focus of my PhD, and has been the focus of a significant amount of my coding efforts. 
+I'm interested in anything and everything related to paleoclimatology via a proxy lens. Particularly new and exciting methods/proxies. A large portion of my work to date has been related to the analysis of fluorescent organic matter (FOM) in ice cores, which was the core focus of my PhD, and has been the focus of a significant amount of my coding efforts. 
 
 I have also spent quite a bit of time running, and analysing outputs from, NOAA's HYSPLIT atmospheric trajectory model.
 
