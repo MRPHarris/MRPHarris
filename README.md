@@ -17,12 +17,13 @@ I have also spent quite a bit of time running, and analysing outputs from, NOAA'
 
 | Package      | Description |
 | ----------- | ----------- |
-| [lwia.r](https://github.com/MRPHarris/lwia.r)                     | A library of functions for the LGR liquid water isotope analyser   |
-| [SampleQueue](https://github.com/MRPHarris/SampleQueue)           | An automated file processing system for the HORIBA Aqualog         |
-| [eemUtils](https://github.com/MRPHarris/eemutils)                 | A suite of functions for working with EEM-fluorescence data in R   |
-| [ERA5handlers](https://github.com/MRPHarris/ERA5handlers)         | Simple parsers for ERA-5 data from the Copernicus CDS              |
-| [bathy.classifieR](https://github.com/MRPHarris/bathy.classifieR) | User-prompt tree for bathymetric image classification              |
-| [MCCPT](https://github.com/h-cadd/MCCPT)                          | Monte-Carlo changepoint analysis of paleoclimate records           |
+| [lwia.r](https://github.com/MRPHarris/lwia.r)                     | A library of functions for the LGR liquid water isotope analyser       |
+| [SampleQueue](https://github.com/MRPHarris/SampleQueue)           | An automated file processing system for the HORIBA Aqualog             |
+| [eemUtils](https://github.com/MRPHarris/eemutils)                 | A suite of functions for working with EEM-fluorescence data in R       |
+| [ERA5handlers](https://github.com/MRPHarris/ERA5handlers)         | Simple parsers for ERA-5 data from the Copernicus CDS                  |
+| [bathy.classifieR](https://github.com/MRPHarris/bathy.classifieR) | User-prompt tree for bathymetric image classification                  |
+| [MCCPT](https://github.com/h-cadd/MCCPT)                          | Monte-Carlo changepoint analysis of paleoclimate records               |
+| [turtleCPTs](https://github.com/MRPHarris/turtleCPTs)             | An adaptation of the MCCPT approach for the analysis of turtle scutes  | 
 
 ### R packages (work-in-progress)
 
@@ -37,6 +38,7 @@ I have also spent quite a bit of time running, and analysing outputs from, NOAA'
 | ----------- | ----------- |
 | [Minjerribah-hysplit](https://github.com/MRPHarris/Minjerribah-hysplit/)                     | An analysis of rainfall-associated atmospheric trajectories to two islands in subtropical eastern Australia. Contribution to a manuscript led by John Tibby, accepted for publication in the Journal of Quaternary Science   |
 | [MCCPT](https://github.com/h-cadd/MCCPT)                          | Monte-Carlo changepoint analysis of paleoclimate records. R package produced alongside [Cadd et al. (2021)](https://doi.org/10.1017/qua.2021.16)          |
+| [TurtleScuteCPTs](https://github.com/MRPHarris/TurtleScuteCPTs/tree/master)    | A contribution to [Linscott and Wallace (2026)](https://doi.org/10.1007/s00227-025-04792-4). Monte-carlo changepoint analysis applied to turtle scute radiocarbon-derived growth rate data. Widespread shifts in turtle growth rates are linked to environmental stressors. |
 
 ### Other repositories (guides, etc.)
 
