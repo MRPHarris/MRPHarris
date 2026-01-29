@@ -36,7 +36,7 @@ I have also spent quite a bit of time running, and analysing outputs from, NOAA'
 
 | Repository      | Description |
 | ----------- | ----------- |
-| [Minjerribah-hysplit](https://github.com/MRPHarris/Minjerribah-hysplit/)                     | An analysis of rainfall-associated atmospheric trajectories to two islands in subtropical eastern Australia. Contribution to a manuscript led by John Tibby, accepted for publication in the Journal of Quaternary Science   |
+| [Minjerribah-hysplit](https://github.com/MRPHarris/Minjerribah-hysplit/)                     | An analysis of rainfall-associated atmospheric trajectories to two islands in subtropical eastern Australia. Contribution to [Tibby et al. (2025), JQS](https://doi.org/10.1002/jqs.70016)   |
 | [MCCPT](https://github.com/h-cadd/MCCPT)                          | Monte-Carlo changepoint analysis of paleoclimate records. R package produced alongside [Cadd et al. (2021)](https://doi.org/10.1017/qua.2021.16)          |
 | [TurtleScuteCPTs](https://github.com/MRPHarris/TurtleScuteCPTs/tree/master)    | A contribution to [Linscott and Wallace (2026)](https://doi.org/10.1007/s00227-025-04792-4). Monte-carlo changepoint analysis applied to turtle scute radiocarbon-derived growth rate data. Widespread shifts in turtle growth rates are linked to environmental stressors. |
 
